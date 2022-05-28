@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,63 +25,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.DiscoPrataTest.deveRetornarInformacoes">
-    <configuration name="DiscoOuroTest.deveRetonarDiscoOuroReprovado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="templatemethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="templatemethod" />
-      <option name="MAIN_CLASS_NAME" value="templatemethod.DiscoOuroTest" />
-      <option name="METHOD_NAME" value="deveRetonarDiscoOuroReprovado" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscoOuroTest.deveRetornarInformacoes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="templatemethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="templatemethod" />
-      <option name="MAIN_CLASS_NAME" value="templatemethod.DiscoOuroTest" />
-      <option name="METHOD_NAME" value="deveRetornarInformacoes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscoPrataTest.deveRetonarAprovado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="templatemethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="templatemethod" />
-      <option name="MAIN_CLASS_NAME" value="templatemethod.DiscoPrataTest" />
-      <option name="METHOD_NAME" value="deveRetonarAprovado" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="JUnit.PlaylistTest.deveContarTotalMusicasAlbum">
     <configuration name="DiscoPrataTest.deveRetonarDiscoPrataReprovado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
@@ -115,13 +66,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlaylistTest.deveContarTotalMusicasAlbum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iterator" />
+      <option name="MAIN_CLASS_NAME" value="iterator.PlaylistTest" />
+      <option name="METHOD_NAME" value="deveContarTotalMusicasAlbum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.devecontarMusicasExecutadasAlbum (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iterator" />
+      <option name="MAIN_CLASS_NAME" value="iterator.PlaylistTest" />
+      <option name="METHOD_NAME" value="devecontarMusicasExecutadasAlbum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTest.devecontarMusicasExecutadasAlbum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.iterator" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.iterator.PlaylistTest" />
+      <option name="METHOD_NAME" value="devecontarMusicasExecutadasAlbum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PlaylistTest.deveContarTotalMusicasAlbum" />
+        <item itemvalue="JUnit.PlaylistTest.devecontarMusicasExecutadasAlbum (1)" />
+        <item itemvalue="JUnit.PlaylistTest.devecontarMusicasExecutadasAlbum" />
         <item itemvalue="JUnit.DiscoPrataTest.deveRetornarInformacoes" />
         <item itemvalue="JUnit.DiscoPrataTest.deveRetonarDiscoPrataReprovado" />
-        <item itemvalue="JUnit.DiscoPrataTest.deveRetonarAprovado" />
-        <item itemvalue="JUnit.DiscoOuroTest.deveRetornarInformacoes" />
-        <item itemvalue="JUnit.DiscoOuroTest.deveRetonarDiscoOuroReprovado" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653771562774</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653776132023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653776132023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,8 +193,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Exercicio" />
-    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'" />
     <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
