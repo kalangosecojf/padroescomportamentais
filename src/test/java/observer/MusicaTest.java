@@ -30,7 +30,6 @@ class MusicaTest {
                 dj2.getUltimaMusica());
     }
 
-
     @Test
     void naoDeveNotificarDJ() {
         Banda banda = new Banda( "Trio Nordestino", "Expresso 222",2019);

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Exercicio">
+    <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/src/test/java/observer/MusicaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/observer/MusicaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,28 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653770909357</updated>
     </task>
-    <task id="LOCAL-00002" summary="Exercicio">
-      <created>1653771124406</created>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653771390067</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1653771124406</updated>
+      <updated>1653771390067</updated>
     </task>
-    <task id="LOCAL-00003" summary="Exercicio">
-      <created>1653771244168</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1653771244168</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Exercicio">
-      <created>1653771271436</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1653771271436</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +72,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Exercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio" />
+    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
