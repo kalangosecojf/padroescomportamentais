@@ -33,81 +33,81 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.EventoTest">
-    <configuration name="EventoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DespesaTest">
+    <configuration name="DespesaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="state" />
-      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveCancelarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DespesaTest.deveCalcularDespesaIss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="state" />
-      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
-      <option name="METHOD_NAME" value="deveCancelarEventoStatusRealizado" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="deveCalcularDespesaIss" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveDivulgarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DespesaTest.deveMultiplicarNotaAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="state" />
-      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
-      <option name="METHOD_NAME" value="deveDivulgarEventoStatusRealizado" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="deveMultiplicarNotaAluno" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveOrcarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DespesaTest.naoDeveCalcularDespesaIcmsPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="state" />
-      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
-      <option name="METHOD_NAME" value="deveOrcarEventoStatusRealizado" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIcmsPorZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveRealizarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DespesaTest.naoDeveCalcularDespesaIssPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="state" />
-      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
-      <option name="METHOD_NAME" value="deveRealizarEventoStatusRealizado" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIssPorZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EventoTest" />
-        <item itemvalue="JUnit.EventoTest.deveOrcarEventoStatusRealizado" />
-        <item itemvalue="JUnit.EventoTest.deveCancelarEventoStatusRealizado" />
-        <item itemvalue="JUnit.EventoTest.deveDivulgarEventoStatusRealizado" />
-        <item itemvalue="JUnit.EventoTest.deveRealizarEventoStatusRealizado" />
+        <item itemvalue="JUnit.DespesaTest" />
+        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIssPorZero" />
+        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIcmsPorZero" />
+        <item itemvalue="JUnit.DespesaTest.deveCalcularDespesaIss" />
+        <item itemvalue="JUnit.DespesaTest.deveMultiplicarNotaAluno" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653778874564</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653847929594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653847929594</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653847935681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653847935681</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,5 +231,16 @@
     <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/strategy/DespesaTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
