@@ -33,82 +33,81 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.PlaylistTest.deveContarTotalMusicasAlbum">
-    <configuration name="DiscoPrataTest.deveRetonarDiscoPrataReprovado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EventoTest">
+    <configuration name="EventoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="templatemethod.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="templatemethod" />
-      <option name="MAIN_CLASS_NAME" value="templatemethod.DiscoPrataTest" />
-      <option name="METHOD_NAME" value="deveRetonarDiscoPrataReprovado" />
+      <option name="PACKAGE_NAME" value="state" />
+      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventoTest.deveCancelarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="state" />
+      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="METHOD_NAME" value="deveCancelarEventoStatusRealizado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscoPrataTest.deveRetornarInformacoes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventoTest.deveDivulgarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="templatemethod.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="templatemethod" />
-      <option name="MAIN_CLASS_NAME" value="templatemethod.DiscoPrataTest" />
-      <option name="METHOD_NAME" value="deveRetornarInformacoes" />
+      <option name="PACKAGE_NAME" value="state" />
+      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="METHOD_NAME" value="deveDivulgarEventoStatusRealizado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaylistTest.deveContarTotalMusicasAlbum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventoTest.deveOrcarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="iterator" />
-      <option name="MAIN_CLASS_NAME" value="iterator.PlaylistTest" />
-      <option name="METHOD_NAME" value="deveContarTotalMusicasAlbum" />
+      <option name="PACKAGE_NAME" value="state" />
+      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="METHOD_NAME" value="deveOrcarEventoStatusRealizado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaylistTest.devecontarMusicasExecutadasAlbum (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventoTest.deveRealizarEventoStatusRealizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="iterator" />
-      <option name="MAIN_CLASS_NAME" value="iterator.PlaylistTest" />
-      <option name="METHOD_NAME" value="devecontarMusicasExecutadasAlbum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlaylistTest.devecontarMusicasExecutadasAlbum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="padroescomportamentais.iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="padroescomportamentais.iterator" />
-      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.iterator.PlaylistTest" />
-      <option name="METHOD_NAME" value="devecontarMusicasExecutadasAlbum" />
+      <option name="PACKAGE_NAME" value="state" />
+      <option name="MAIN_CLASS_NAME" value="state.EventoTest" />
+      <option name="METHOD_NAME" value="deveRealizarEventoStatusRealizado" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PlaylistTest.deveContarTotalMusicasAlbum" />
-        <item itemvalue="JUnit.PlaylistTest.devecontarMusicasExecutadasAlbum (1)" />
-        <item itemvalue="JUnit.PlaylistTest.devecontarMusicasExecutadasAlbum" />
-        <item itemvalue="JUnit.DiscoPrataTest.deveRetornarInformacoes" />
-        <item itemvalue="JUnit.DiscoPrataTest.deveRetonarDiscoPrataReprovado" />
+        <item itemvalue="JUnit.EventoTest" />
+        <item itemvalue="JUnit.EventoTest.deveOrcarEventoStatusRealizado" />
+        <item itemvalue="JUnit.EventoTest.deveCancelarEventoStatusRealizado" />
+        <item itemvalue="JUnit.EventoTest.deveDivulgarEventoStatusRealizado" />
+        <item itemvalue="JUnit.EventoTest.deveRealizarEventoStatusRealizado" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +174,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653776132023</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778817315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778817315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778824100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778824100</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778874564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778874564</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
