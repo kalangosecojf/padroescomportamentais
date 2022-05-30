@@ -33,81 +33,73 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DespesaTest">
-    <configuration name="DespesaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in padroescomportamentais">
+    <configuration name="All in padroescomportamentais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="chainofresponsability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="PACKAGE_NAME" value="chainofresponsability" />
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.deveCalcularDespesaIss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VendaTest.deveRetornarDepartamentoComercialVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="chainofresponsability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="deveCalcularDespesaIss" />
+      <option name="PACKAGE_NAME" value="chainofresponsability" />
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
+      <option name="METHOD_NAME" value="deveRetornarDepartamentoComercialVenderShow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.deveMultiplicarNotaAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VendaTest.deveRetornarDepartamentoFinanceiroVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="chainofresponsability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="deveMultiplicarNotaAluno" />
+      <option name="PACKAGE_NAME" value="chainofresponsability" />
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
+      <option name="METHOD_NAME" value="deveRetornarDepartamentoFinanceiroVenderShow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.naoDeveCalcularDespesaIcmsPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VendaTest.deveRetornarDepartamentoVendaVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="chainofresponsability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIcmsPorZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DespesaTest.naoDeveCalcularDespesaIssPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIssPorZero" />
+      <option name="PACKAGE_NAME" value="chainofresponsability" />
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
+      <option name="METHOD_NAME" value="deveRetornarDepartamentoVendaVenderShow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DespesaTest" />
-        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIssPorZero" />
-        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIcmsPorZero" />
-        <item itemvalue="JUnit.DespesaTest.deveCalcularDespesaIss" />
-        <item itemvalue="JUnit.DespesaTest.deveMultiplicarNotaAluno" />
+        <item itemvalue="JUnit.All in padroescomportamentais" />
+        <item itemvalue="JUnit.VendaTest" />
+        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoFinanceiroVenderShow" />
+        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoComercialVenderShow" />
+        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoVendaVenderShow" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +201,35 @@
       <option name="project" value="LOCAL" />
       <updated>1653847935681</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653853368414</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653853368414</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653853374960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653853374960</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653869921126</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653869921126</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653869926473</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653869926473</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
