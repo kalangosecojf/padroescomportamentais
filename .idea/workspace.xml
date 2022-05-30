@@ -33,7 +33,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DespesaTest">
+  <component name="RunManager" selected="JUnit.DiscotecagemTest">
     <configuration name="DespesaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
@@ -49,65 +49,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.deveCalcularDespesaIss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscotecagemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="deveCalcularDespesaIss" />
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.DiscotecagemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscotecagemTest.deveCancelarTerminoEvento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.DiscotecagemTest" />
+      <option name="METHOD_NAME" value="deveCancelarTerminoEvento" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.deveMultiplicarNotaAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscotecagemTest.deveIniciarEvento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="deveMultiplicarNotaAluno" />
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.DiscotecagemTest" />
+      <option name="METHOD_NAME" value="deveIniciarEvento" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DespesaTest.naoDeveCalcularDespesaIcmsPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscotecagemTest.deveTerminarEvento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIcmsPorZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DespesaTest.naoDeveCalcularDespesaIssPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="strategy" />
-      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
-      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIssPorZero" />
+      <option name="PACKAGE_NAME" value="command" />
+      <option name="MAIN_CLASS_NAME" value="command.DiscotecagemTest" />
+      <option name="METHOD_NAME" value="deveTerminarEvento" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DiscotecagemTest" />
+        <item itemvalue="JUnit.DiscotecagemTest.deveCancelarTerminoEvento" />
+        <item itemvalue="JUnit.DiscotecagemTest.deveTerminarEvento" />
+        <item itemvalue="JUnit.DiscotecagemTest.deveIniciarEvento" />
         <item itemvalue="JUnit.DespesaTest" />
-        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIssPorZero" />
-        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIcmsPorZero" />
-        <item itemvalue="JUnit.DespesaTest.deveCalcularDespesaIss" />
-        <item itemvalue="JUnit.DespesaTest.deveMultiplicarNotaAluno" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653847935681</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653853368414</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653853368414</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653853374960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653853374960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
