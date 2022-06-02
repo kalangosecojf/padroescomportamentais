@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chainofresponsability/VendaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chainofresponsability/VendaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/state/EventoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/state/OrcamentoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrcamentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrcamentoTest.deveCalcularImpostoComFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+      <option name="METHOD_NAME" value="deveCalcularImpostoComFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrcamentoTest.deveCalcularOrcamentoComFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+      <option name="METHOD_NAME" value="deveCalcularOrcamentoComFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VendaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
@@ -57,61 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendaTest.deveRetornarDepartamentoComercialVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainofresponsability.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chainofresponsability" />
-      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
-      <option name="METHOD_NAME" value="deveRetornarDepartamentoComercialVenderShow" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VendaTest.deveRetornarDepartamentoFinanceiroVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainofresponsability.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chainofresponsability" />
-      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
-      <option name="METHOD_NAME" value="deveRetornarDepartamentoFinanceiroVenderShow" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VendaTest.deveRetornarDepartamentoVendaVenderShow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainofresponsability.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chainofresponsability" />
-      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
-      <option name="METHOD_NAME" value="deveRetornarDepartamentoVendaVenderShow" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in padroescomportamentais" />
+        <item itemvalue="JUnit.OrcamentoTest" />
+        <item itemvalue="JUnit.OrcamentoTest.deveCalcularImpostoComFormula" />
+        <item itemvalue="JUnit.OrcamentoTest.deveCalcularOrcamentoComFormula" />
         <item itemvalue="JUnit.VendaTest" />
-        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoFinanceiroVenderShow" />
-        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoComercialVenderShow" />
-        <item itemvalue="JUnit.VendaTest.deveRetornarDepartamentoVendaVenderShow" />
       </list>
     </recent_temporary>
   </component>
@@ -202,34 +203,13 @@
       <updated>1653847935681</updated>
     </task>
     <task id="LOCAL-00012" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1653853368414</created>
+      <created>1654138155062</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1653853368414</updated>
+      <updated>1654138155062</updated>
     </task>
-    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1653853374960</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1653853374960</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1653869921126</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1653869921126</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1653869926473</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1653869926473</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
