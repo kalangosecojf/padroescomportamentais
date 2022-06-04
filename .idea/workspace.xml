@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f6f2596-2a15-464d-bfc8-3f965b01811f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'">
+    <list default="true" id="65607c9c-abb5-4572-8dfb-d503c2a39407" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +18,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-    <option name="showPreview" value="true" />
-  </component>
-  <component name="ProjectId" id="2A75QMGRa8Cl5nFaD0gQOx0ALXp" />
+  <component name="ProjectId" id="2A7iyzYEBYqx5PhTwSKzUWXFGjW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,81 +29,65 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.EventoStatusTest">
-    <configuration name="EventoStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MusicoVisitorTest.deveExibirFuncionario">
+    <configuration name="MusicoVisitorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
+          <option name="PATTERN" value="padroescomportamentais.visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="memento" />
-      <option name="MAIN_CLASS_NAME" value="memento.EventoStatusTest" />
+      <option name="PACKAGE_NAME" value="padroescomportamentais.visitor" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.visitor.MusicoVisitorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoStatusTest.deveArmazenarStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusicoVisitorTest.deveExibirDj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="memento" />
-      <option name="MAIN_CLASS_NAME" value="memento.EventoStatusTest" />
-      <option name="METHOD_NAME" value="deveArmazenarStatus" />
+      <option name="PACKAGE_NAME" value="visitor" />
+      <option name="MAIN_CLASS_NAME" value="visitor.MusicoVisitorTest" />
+      <option name="METHOD_NAME" value="deveExibirDj" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoStatusTest.deveRetornarEstadoAnterior" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusicoVisitorTest.deveExibirFuncionario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="memento" />
-      <option name="MAIN_CLASS_NAME" value="memento.EventoStatusTest" />
-      <option name="METHOD_NAME" value="deveRetornarEstadoAnterior" />
+      <option name="PACKAGE_NAME" value="visitor" />
+      <option name="MAIN_CLASS_NAME" value="visitor.MusicoVisitorTest" />
+      <option name="METHOD_NAME" value="deveExibirFuncionario" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoStatusTest.deveRetornarExcecaoIndiceInvalido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusicoVisitorTest.deveExibirProfessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="memento" />
-      <option name="MAIN_CLASS_NAME" value="memento.EventoStatusTest" />
-      <option name="METHOD_NAME" value="deveRetornarExcecaoIndiceInvalido" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EventoStatusTest.deveRetornarStatusInicial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="padroescomportamentais" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="memento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="memento" />
-      <option name="MAIN_CLASS_NAME" value="memento.EventoStatusTest" />
-      <option name="METHOD_NAME" value="deveRetornarStatusInicial" />
+      <option name="PACKAGE_NAME" value="visitor" />
+      <option name="MAIN_CLASS_NAME" value="visitor.MusicoVisitorTest" />
+      <option name="METHOD_NAME" value="deveExibirProfessor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,53 +95,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EventoStatusTest" />
-        <item itemvalue="JUnit.EventoStatusTest.deveRetornarExcecaoIndiceInvalido" />
-        <item itemvalue="JUnit.EventoStatusTest.deveRetornarEstadoAnterior" />
-        <item itemvalue="JUnit.EventoStatusTest.deveRetornarStatusInicial" />
-        <item itemvalue="JUnit.EventoStatusTest.deveArmazenarStatus" />
+        <item itemvalue="JUnit.MusicoVisitorTest.deveExibirFuncionario" />
+        <item itemvalue="JUnit.MusicoVisitorTest.deveExibirProfessor" />
+        <item itemvalue="JUnit.MusicoVisitorTest.deveExibirDj" />
+        <item itemvalue="JUnit.MusicoVisitorTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f6f2596-2a15-464d-bfc8-3f965b01811f" name="Changes" comment="" />
-      <created>1654347296117</created>
+      <changelist id="65607c9c-abb5-4572-8dfb-d503c2a39407" name="Changes" comment="" />
+      <created>1654367282940</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654347296117</updated>
+      <updated>1654367282940</updated>
     </task>
-    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1654347439853</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654347439854</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
-      <created>1654347472341</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654347472341</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'" />
   </component>
 </project>
