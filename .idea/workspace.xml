@@ -4,22 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08683f33-3c17-4fb0-a2e7-7200fc49b9ed" name="Changes" comment="">
+    <list default="true" id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="Merge remote-tracking branch 'padroescomportamentais/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/MusicaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/observer/EventoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chainofresponsability/VendaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chainofresponsability/VendaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/state/EventoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/state/OrcamentoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectId" id="29oDkiOk0Ah2RXapNRxmheqAEJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Meu Drive/Granbery/Granbery - Padrões de Projetos/marcoaparaujo&quot;
+  }
+}</component>
+<<<<<<<<< Temporary merge branch 1
+  <component name="RunManager" selected="JUnit.DespesaTest">
+    <configuration name="DespesaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+=========
   <component name="RunManager" selected="JUnit.All in padroescomportamentais">
     <configuration name="All in padroescomportamentais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
@@ -29,87 +57,240 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveElogiarSecretaria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrcamentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mediator.*" />
+          <option name="PATTERN" value="interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mediator" />
-      <option name="MAIN_CLASS_NAME" value="mediator.EventoTest" />
-      <option name="METHOD_NAME" value="deveElogiarSecretaria" />
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+>>>>>>>>> Temporary merge branch 2
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<<<< Temporary merge branch 1
+    <configuration name="DespesaTest.deveCalcularDespesaIss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="deveCalcularDespesaIss" />
+=========
+    <configuration name="OrcamentoTest.deveCalcularImpostoComFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+      <option name="METHOD_NAME" value="deveCalcularImpostoComFormula" />
+>>>>>>>>> Temporary merge branch 2
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveReceberDoacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+<<<<<<<<< Temporary merge branch 1
+    <configuration name="DespesaTest.deveMultiplicarNotaAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mediator.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mediator" />
-      <option name="MAIN_CLASS_NAME" value="mediator.EventoTest" />
-      <option name="METHOD_NAME" value="deveReceberDoacao" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="deveMultiplicarNotaAluno" />
+=========
+    <configuration name="OrcamentoTest.deveCalcularOrcamentoComFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroescomportamentais" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.OrcamentoTest" />
+      <option name="METHOD_NAME" value="deveCalcularOrcamentoComFormula" />
+>>>>>>>>> Temporary merge branch 2
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventoTest.deveReclamarMusica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+<<<<<<<<< Temporary merge branch 1
+    <configuration name="DespesaTest.naoDeveCalcularDespesaIcmsPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mediator.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mediator" />
-      <option name="MAIN_CLASS_NAME" value="mediator.EventoTest" />
-      <option name="METHOD_NAME" value="deveReclamarMusica" />
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIcmsPorZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mediator in padroescomportamentais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DespesaTest.naoDeveCalcularDespesaIssPorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=========
+    <configuration name="VendaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>>>> Temporary merge branch 2
       <module name="padroescomportamentais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mediator.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="mediator" />
-      <option name="TEST_OBJECT" value="package" />
+<<<<<<<<< Temporary merge branch 1
+      <option name="PACKAGE_NAME" value="strategy" />
+      <option name="MAIN_CLASS_NAME" value="strategy.DespesaTest" />
+      <option name="METHOD_NAME" value="naoDeveCalcularDespesaIssPorZero" />
+      <option name="TEST_OBJECT" value="method" />
+=========
+      <option name="PACKAGE_NAME" value="chainofresponsability" />
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.VendaTest" />
+      <option name="TEST_OBJECT" value="class" />
+>>>>>>>>> Temporary merge branch 2
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<<<< Temporary merge branch 1
+        <item itemvalue="JUnit.DespesaTest" />
+        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIssPorZero" />
+        <item itemvalue="JUnit.DespesaTest.naoDeveCalcularDespesaIcmsPorZero" />
+        <item itemvalue="JUnit.DespesaTest.deveCalcularDespesaIss" />
+        <item itemvalue="JUnit.DespesaTest.deveMultiplicarNotaAluno" />
+=========
         <item itemvalue="JUnit.All in padroescomportamentais" />
-        <item itemvalue="JUnit.mediator in padroescomportamentais" />
-        <item itemvalue="JUnit.EventoTest.deveReclamarMusica" />
-        <item itemvalue="JUnit.EventoTest.deveReceberDoacao" />
-        <item itemvalue="JUnit.EventoTest.deveElogiarSecretaria" />
+        <item itemvalue="JUnit.OrcamentoTest" />
+        <item itemvalue="JUnit.OrcamentoTest.deveCalcularImpostoComFormula" />
+        <item itemvalue="JUnit.OrcamentoTest.deveCalcularOrcamentoComFormula" />
+        <item itemvalue="JUnit.VendaTest" />
+>>>>>>>>> Temporary merge branch 2
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08683f33-3c17-4fb0-a2e7-7200fc49b9ed" name="Changes" comment="" />
-      <created>1654305084341</created>
+      <changelist id="7e770fb2-9f31-4346-99e7-84f610c57e3f" name="Changes" comment="" />
+      <created>1653770693000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654305084341</updated>
+      <updated>1653770693000</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicio">
+      <created>1653770909357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653770909357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653771390067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653771390067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653771459471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653771459471</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653771474075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653771474075</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653771562774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653771562774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653776132023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653776132023</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778817315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778817315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778824100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778824100</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653778874564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653778874564</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653847929594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653847929594</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1653847935681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653847935681</updated>
+    </task>
+<<<<<<<<< Temporary merge branch 1
+    <option name="localTasksCounter" value="12" />
+=========
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'padroescomportamentais/master'">
+      <created>1654138155062</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654138155062</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +303,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Exercicio" />
+    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'padroescomportamentais/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'padroescomportamentais/master'" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/strategy/DespesaTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
